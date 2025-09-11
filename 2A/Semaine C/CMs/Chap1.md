@@ -25,7 +25,7 @@ int main() {
 Options pour afficher les warnings : `-Wall -Wextra`  
 Option pour debug : `-g`
 
-Commande complète : `$ gcccource.c -Wall -Wextra -g -o exec`
+Commande complète : `$ gcc source.c -Wall -Wextra -g -o exec`
 
 ## Types
 
